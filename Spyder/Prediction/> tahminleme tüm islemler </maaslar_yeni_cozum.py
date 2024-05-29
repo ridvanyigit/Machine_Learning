@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 21 19:56:54 2024
-
-@author: ridvanyigit
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
